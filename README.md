@@ -1,7 +1,10 @@
 # International collaboration on new data collections
 Machine Learning for Health 2022
+
 28 November, New Orleans
+
 In-Person Roundtable 8:
+
 How to incentivize creation or publication of new data collections and facilitate international collaboration?
 
 ## Introduction
@@ -49,30 +52,41 @@ more generalizable machine learning models for real world deployment [3].
 [1] Mohamed Baza et al. “On sharing models instead of data using mimic learning for
 smart health applications”. In: 2020 IEEE International Conference on Informatics,
 IoT, and Enabling Technologies (ICIoT). IEEE. 2020, pp. 231–236.
+
 [2] M. Faltys et al. “HiRID, A High Time-Resolution ICU Dataset (version 1.1.1)”. In:
 (2021).
+
 [3] Bilwaj Gaonkar, K Kim, and Luke Macyszyn. “Ethical issues arising due to bias in
 training AI algorithms in healthcare and data sharing as a potential solution”. In: AI
 Ethics J 1.1 (2020), pp. 1–9.
+
 [4] Mehak Gupta et al. “Flexible-Window Predictions on Electronic Health Records”.
 In: Proceedings of the AAAI Conference on Artificial Intelligence 36.11 (June 2022),
 pp. 12510–12516. doi: 10.1609/aaai.v36i11.21520. url: https://ojs.aaai.org/
 index.php/AAAI/article/view/21520.
+
 [5] All of Us Research Program Investigators. “The “All of Us” research program”. In:
 New England Journal of Medicine 381.7 (2019), pp. 668–676. issn: 0028-4793.
+
 [6] A. Johnson et al. “MIMIC-IV (version 1.0)”. In: (2021). url: https://doi.org/10.
 13026/s6n6-xd98.
+
 [7] Brendan McMahan et al. “Communication-efficient learning of deep networks from
 decentralized data”. In: Artificial intelligence and statistics. PMLR. 2017, pp. 1273–
 1282.
+
 [8] Tom J Pollard et al. “The eICU Collaborative Research Database, a freely available
 multi-center database for critical care research”. In: Scientific data 5.1 (2018), pp. 1–
 13.
+
 [9] Subhrajit Roy et al. “Machine Learning for Health (ML4H) 2021”. In: Machine Learning for Health. PMLR. 2021, pp. 1–12.
+
 [10] Jason Walonoski et al. “Synthea: An approach, method, and software mechanism for
 generating synthetic patients and the synthetic electronic health care record”. In:
 Journal of the American Medical Informatics Association 25.3 (Aug. 2017), pp. 230–
 238. issn: 1527-974X.
+
 [11] Qiang Yang et al. “Federated machine learning: Concept and applications”. In: ACM
 Transactions on Intelligent Systems and Technology (TIST) 10.2 (2019), pp. 1–19.
+
 [12] Hugo Y`eche et al. “HiRID-ICU-Benchmark–A Comprehensive Machine Learning Benchmark on High-resolution ICU Data”. In: arXiv preprint arXiv:2111.08536 (2021).
